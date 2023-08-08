@@ -1,0 +1,25 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# AppleScript
+
+Various resources I've made or found relating to AppleScript programming.
+
+## Content Made By Me
+
+=> tutorials/tutorials.gmi	Tutorials
+=> scripts/scripts.gmi	Scripts
+=> resources/resources.gmi	Resources
+
+## Useful Links
+
+=> https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html	AppleScript Language Guide
+
+=> ../index.gmi	[root]

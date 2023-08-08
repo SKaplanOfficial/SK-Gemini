@@ -12,13 +12,13 @@
 
 ## Python Packages
 
-=> pyxa/index.gmi	PyXA
-=> macimg/index.gmi	macimg
+=> pyxa/pyxa.gmi	PyXA
+=> macimg/macimg.gmi	macimg
 
 ## Raycast Extensions
 
-=> image-modification/index.gmi	Image Modification
-=> pins/index.gmi	Pins
-=> promptlab/index.gmi	PromptLab
+=> image-modification/image-modification.gmi	Image Modification
+=> pins/pins.gmi	Pins
+=> promptlab/promptlab.gmi	PromptLab
 
 => ../index.gmi	[root]

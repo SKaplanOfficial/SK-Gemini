@@ -1,6 +1,7 @@
 # Adobe Illustrator Cheatsheet
 
 ## Selection Tools
+
 | Shortcut | Description |
 | --- | --- |
 | V | Selection Tool |
@@ -8,6 +9,7 @@
 | Shift + A | Lasso Tool |
 
 ## Drawing Tools
+
 | Shortcut | Description |
 | --- | --- |
 | P | Pen Tool |
@@ -30,6 +32,7 @@
 | Shift + Ctrl + O | Perspective Grid Tool |
 
 ## Document Navigation
+
 | Shortcut | Description |
 | --- | --- |
 | Space | Hand Tool |
@@ -40,6 +43,7 @@
 | Ctrl + Alt + 3 | Isolation Mode |
 
 ## Layers
+
 | Shortcut | Description |
 | --- | --- |
 | Ctrl + L | Create New Layer |
@@ -48,6 +52,7 @@
 | F7 | Show/Hide Layers Panel |
 
 ## Miscellaneous
+
 | Shortcut | Description |
 | --- | --- |
 | Ctrl + D | Transform Again |
@@ -59,5 +64,7 @@
 | Ctrl + Shift + E | Export |
 | Ctrl + K | Preferences |
 
-For more information, visit the [Adobe Illustrator Keyboard Shortcuts Reference Guide](https://helpx.adobe.com/illustrator/using/default-keyboard-shortcuts.html).
+## Resources
+
+=> https://helpx.adobe.com/illustrator/using/default-keyboard-shortcuts.html	Adobe Illustrator Keyboard Shortcuts Reference Guide
 

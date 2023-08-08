@@ -1,0 +1,29 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# AppleScript Scripts
+
+=> ApplyComicFilter.applescript
+=> ClassifySoundFile.applescript
+=> CurrentLocation.applescript
+=> ExtractAnimalLabels.applescript
+=> ExtractImageText.applescript
+=> FlipPDFHorizontally.applescript
+=> GetAllContactsData.applescript
+=> GetQRPayload.applescript
+=> GetSafariBookmarks.applescript
+=> GetSymbolDataURI.applescript
+=> GetURLHTML.applescript
+=> ListInstalledApplications.applescript
+=> QueryChatGPT.applescript
+=> ToggleStageManager.applescript
+=> WifiControl.applescript
+
+=> ../../index.gmi	[root]

@@ -1,0 +1,419 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# List of Scriptable Applications
+
+This is a list of applications that are scriptable with AppleScript.  It is a work in progress.  If you have any additions or corrections, please let me know.
+
+## A
+
+=> https://flyingmeat.com/acorn/	Acorn
+=> https://adium.im	Adium
+=> https://www.adobe.com/acrobat/pdf-reader.html	Adobe Acrobat Reader
+=> https://www.adobe.com/acrobat.html	Adobe Acrobat
+=> https://www.adobe.com/products/illustrator.html	Adobe Illustrator
+=> https://www.adobe.com/products/indesign.html	Adobe InDesign
+=> https://apps.apple.com/us/app/adobe-lightroom/id1451544217?mt=12	Adobe Lightroom
+=> https://www.adobe.com/products/photoshop	Adobe Photoshop
+=> https://www.adobe.com/products/premiere.html	Adobe Premiere Pro
+=> https://aetherlog.com/	Aether
+=> https://www.agenda.com/	Agenda
+=> https://airmailapp.com/	Airmail
+=> https://www.alfredapp.com/	Alfred
+=> https://apps.apple.com/us/app/amphetamine/id937984704?mt=12	Amphetamine
+=> https://anybox.app/	AnyBox
+=> https://aquamacs.org/	Aquamacs
+=> https://arc.net	Arc
+=> http://www.mwilm-conway-ucd.de/Arcadiate/	Arcadiate
+=> https://trankynam.com/atext/	aText
+=> https://atom.io/	Atom
+=> https://icedaudio.com/site/	AudioFinder
+=> https://avogadro.cc/	Avogadro
+
+## B
+
+=> https://www.balthisar.com/software/tidy/	Balthisar Tidy
+=> https://www.macbartender.com	BarTender
+=> http://www.barebones.com/products/bbedit/index.html	BBEdit
+=> https://betterzip.com	BetterZip
+=> https://bibdesk.sourceforge.io	BibDesk
+=> https://hogbaysoftware.netlify.app/bike/	Bike
+=> https://redsweater.com/blackink/	Black Ink
+=> http://bluegriffon.org/index.html	BlueGriffon
+=> https://www.sonnysoftware.com/bookends/bookends.html	Bookends
+=> https://onflapp.github.io/blog/pages/BookMarkable.html	BookMarkable
+=> https://brave.com/download/	Brave Browser
+=> https://www.highcaffeinecontent.com	Broadcasts
+=> https://www.flyingblackhat.com/bugz/	Bugz
+=> https://bunchapp.co	Bunch
+=> https://www.chronosnet.com/store/software/business-card-shop	Business Card Shop
+=> http://www.busycal.com/busycal/index.html	BusyCal
+=> http://www.busycal.com/busycontacts/	BusyContacts
+
+## C
+
+=> https://jrr6.github.io/Caffeinator/	Caffeinator
+=> https://www.intelliscapesolutions.com/apps/caffeine	Caffeine
+=> https://panic.com/blog/candybar-mountain-lion-and-beyond/	CandyBar
+=> https://creaceed.com/carbo	Carbo
+=> https://bombich.com	Carbon Copy Cloner
+=> https://www.macgis.com	Cartographica
+=> https://flexibits.com/cardhop	Cardhop
+=> https://cashculator.app	Cashculator
+=> http://www.nicholson.com/rhn/basic/	Chipmunk Basic
+=> https://www.chromium.org/Home	Chromium
+=> https://apps.apple.com/us/app/clozure-cl/	CLozure CL
+=> https://www.maintain.se/cocktail/	Cocktail
+=> https://coda.io	Coda 2
+=> https://cog.losno.co	Cog
+=> https://github.com/colloquy/colloquy	Colloquy
+=> https://www.comicstripfactory.com	Comic Strip Factory
+=> https://freeware.the-meiers.org	CoolTerm
+=> https://plumamazing.com/product/copypaste/	CopyPaste
+=> https://codinn.com/shell/	Core Shell
+=> https://codinn.com/tunnel/	Core Tunnel
+=> https://coteditor.com	CotEditor
+=> https://wortum.com/cuprum/	Cuprum
+=> https://www.zengobi.com/curio/	Curio
+=> https://www.zengobi.com/curiota/	Curiota
+=> http://cynicalpeak.com/cyndicate/	Cyndicate
+
+## D
+
+=> https://kapeli.com/dash	Dash
+=> https://www.marketcircle.com/	Daylight
+=> https://samperson.itch.io/desktop-goose	Desktop Goose
+=> https://www.devontechnologies.com/apps/devonthink	DEVONThink
+=> https://www.macupdate.com/app/mac/27304/dialectic	Dialectic
+=> http://www5.wind.ne.jp/miko/mac_soft/diary_plusplus_x/index-en.html	Diary++X
+=> http://displaymenu.milchimgemuesefach.de/index.html	Display Menu
+=> https://onflapp.github.io/blog/pages/DNoteIt.html	DNoteIt
+=> https://getdrafts.com/	Drafts
+=> https://celestialteapot.com/drill/	Drill
+=> https://10base-t.com/site/macintosh-software/dropcopy/	DropCopy
+=> https://c-command.com/dropdmg/	DropDMG
+=> https://apps.apple.com/us/app/dropsync-3/id800983197?mt=12	DropSync
+=> https://pilotmoon.com/dwellclick/	DwellClick
+
+## E
+
+=> https://c-command.com/eaglefiler/	EagleFiler
+=> https://emacsformacosx.com/	Emacs
+=> https://emporter.app	Emporter
+=> http://mac.endicia.com/	Endicia
+=> https://github.com/abentele/Erbele	Erbele
+=> https://www.evolvetracking.com/	Evolve Tracking
+=> https://www.expressvpn.com/vpn-software/vpn-mac	ExpressVPN
+
+## F
+
+=> https://flexibits.com/fantastical	Fantastical
+=> https://github.com/joelekstrom/fastmate/tree/219b216c4ba1c72fe9137bd2ab4ba13ae6985fd2	Fastmate
+=> https://reinventedsoftware.com/feeder/	Feeder
+=> https://fetchsoftworks.com/fetch/download/	Fetch
+=> https://dbservices.com/filemaker/licensing	Filemaker Pro
+=> https://firework.cloud/	Firework
+=> http://flashcardhero.com/	Flashcard Hero
+=> https://redsweater.com/flextime/	FlexTime
+=> https://flic.io/mac-app	Flic
+=> https://flowapp.info/	Flow
+=> https://www.foldingtext.com/	FoldingText
+=> https://mac.eltima.com/download-manager.html	Folx
+=> http://forecastbar.com/	Forecast Bar
+=> https://binarynights.com/	ForkLift
+=> http://foxtrot-search.com/foxtrot-personal.html	FoxTrot Personal Search
+=> https://ds9soft.com/freelancestation/	FreelanceStation
+
+## G
+
+=> http://gapplin.wolfrosch.com/	Gapplin
+=> https://www.iwascoding.com/GarageSale/index.html	GarageSale
+=> https://apps.apple.com/us/app/garmin-basecamp/id411052274?mt=12	Garmin Basecamp
+=> https://www8.garmin.com/support/download_details.jsp?id=3825	Garmin MapInstall
+=> http://www.geditcom.com/	GEDitCOM II
+=> https://github.com/gitx/gitx	GitX
+=> https://glyphsapp.com/	Glyphs 3
+=> https://www.google.com/chrome/bsem/download/en_us/	Google Chrome
+=> https://www.google.com/earth/about/versions#earth-pro	Google Earth Pro
+=> https://apps.apple.com/us/app/go-writer-lite/id686883851?mt=12	Go Writer Lite
+=> https://gpgtools.org/keychain/	GPG Keychain
+
+## H
+
+=> https://malupdaterosx.moe/hachidori/	Hachidori
+=> https://www.hammerspoon.org/	Hammerspoon
+=> https://handbrake.fr/	Handbrake
+=> https://cristallight.com/HomeBusinessCard/	Home Business Card
+=> https://hookproductivity.com/	Hook
+=> https://www.houdah.com/houdahSpot/	HoudahSpot 6
+=> https://peacockmedia.software/mac/huetopia/	Hue-topia
+
+## I
+
+=> https://peacockmedia.software/mac/huetopia/	iA Writer
+=> https://ibarcoder.com/	iBarcoder
+=> http://icab.de/	iCab
+=> https://icanhazapps.d7.wtf/shortcut	iCanHazShortcut
+=> https://iclipapp.com/	iClip
+=> https://github.com/DWilliames/idasen-controller-mac/tree/957070127605313a84d0891e6803f1767611c8fe	iDasen Desk Controller
+=> https://coriolis-systems.com/	iDefrag
+=> https://inmr.net/	iNMR
+=> https://intaglio.en.softonic.com/mac	Intaglio
+=> http://www.sustworks.com/site/prod_ipmx_overview.html	IPNetMonitorX
+=> https://iridiumbrowser.de/	Iridium
+=> https://iterm2.com/	iTerm
+=> http://www.jp-lightway.com/iText/iTextExpress/pad_file.htm	iText Express
+=> https://www.toketaware.com/ithoughts-osx	iThoughtsX
+=> https://apps.chbeer.de/ivocabulary/	iVocabulary
+
+## J
+
+=> http://www.jirassic.com/	Jirassic
+=> https://github.com/steelwheels/JSTerminal	JSTerminal
+=> https://jumpshare.com/mac	Jumpshare
+=> https://getjustfocus.com/	Just Focus
+=> https://apps.apple.com/us/app/just-log-time-tracker/id1510541339	Just Log
+
+## K
+
+=> https://reinventedsoftware.com/keepit/	Keep It
+=> https://www.keyboardmaestro.com/	Keyboard Maestro
+
+## L
+
+=> https://cristallight.com/LabelsAndDatabases/	Labels and Databases
+=> https://www.obdev.at/products/launchbar/index.html	LaunchBar
+=> https://ironicsoftware.com/leap/	Leap
+=> https://manytricks.com/leech/	Leech
+=> https://www.koingosw.com/products/librarianpro/	Librarian Pro
+=> https://librewolf.net/	LibreWolf
+=> https://peacockmedia.software/mac/LIFXstyle/	LIFXstyle
+=> https://lilypond.org/macos-x.html	LilyPond
+=> https://onflapp.github.io/blog/pages/LinCastorBrowser.html	LinCastorBrowser
+=> https://www.peterborgapps.com/lingon/	Lingon X
+=> https://www.lyx.org/	LyX
+
+## M
+
+=> https://cristallight.com/MacCdDvdLabelMaker/	Mac CD/DVD Label Maker
+=> https://macdown.uranusjr.com/	MacDown
+=> https://github.com/acidanthera/MaciASL	MaciASL
+=> https://github.com/MacGesture/MacGesture	MacGesture
+=> https://danschimpf.com/	MacJournal
+=> http://www.macspice.com/	MacSpice
+=> https://macvector.com/	MacVector
+=> https://macvim-dev.github.io/macvim/	MacVim
+=> https://mailplaneapp.com/	Mailplane
+=> https://manuscriptsapp.com/	Manuscripts
+=> https://www.marginnote.com/	MarginNote 3
+=> https://redsweater.com/marsedit/	MarsEdit
+=> https://sbooth.org/Max/	Max
+=> https://apps.apple.com/us/app/me-focused/id1546276197?mt=12	Me Focused
+=> https://github.com/kristopherjohnson/MenubarCountdown	Menubar Countdown
+=> https://www.projectwizards.net/en/merlin-project	Merlin Project
+=> https://www.microsoft.com/en-us/edge	Microsoft Edge
+=> https://www.microsoft.com/en-us/microsoft-365/excel	Microsoft Excel
+=> https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook	Microsoft Outlook
+=> https://www.microsoft.com/en-us/microsoft-365/powerpoint	Microsoft PowerPoint
+=> https://www.microsoft.com/en-us/microsoft-365/word	Microsoft Word
+=> https://gotoes.org/sales/Journal_App_Mac/index.php	MiJournal
+=> https://apps.apple.com/us/app/minitodo/id1484195499?mt=12	MiniTodo
+=> https://www.mindmanager.com/en/pages/mind-mapping-b6/	MindManager
+=> https://www.mindnode.com/	MindNode
+=> https://www.matchware.com/mind-mapping-software	MindView
+=> https://moneymoney-app.com/	MoneyMoney
+=> https://manytricks.com/moom/	Moom
+=> http://mplayerx.org/	MPlayerX
+=> https://multimarkdown.com/composer4/	MultiMarkdown Composer
+
+## N
+
+=> https://cdfinder.de/index.html	NeoFinder
+=> https://netnewswire.com/	NetNewsWire
+=> http://thinkmac.co.uk/mac-apps/newslife/	NewsLife
+=> https://magnumbytes.com/	Nimble Commander
+=> https://nisus.com/products/	Nisus Wirter
+=> https://www.gonitro.com/product-details/downloads	Nitro PDF Pro
+=> https://www.notebooksapp.com/mac/	Notebooks
+=> https://notenik.app/	Notenik
+=> https://noteplan.co/	Noteplan 3
+=> https://nova.app/	Nova
+=> https://www.jemstartech.com/applications/nuggit-editor/	Nuggit Editor
+=> https://brettterpstra.com/projects/nvalt/	nvALT
+
+## O
+
+=> https://www.omnigroup.com/more	OmniDiskSweeper
+=> https://www.omnigroup.com/omnifocus	OmniFocus
+=> https://www.omnigroup.com/omnigraffle	OmniGraffle
+=> https://www.omnigroup.com/omnioutliner	OmniOutliner
+=> https://www.omnigroup.com/omniplan	OmniPlan
+=> https://omnistaging.omnigroup.com/omniweb	OmniWeb
+=> https://www.microsoft.com/en-us/microsoft-365/onedrive/download	OneDrive
+=> https://a-sharp.com/opal/opal.html	Opal
+=> https://openscad.org/index.html	OpenSCAD
+=> https://www.opera.com/	Opera
+=> https://apps.apple.com/us/app/opus-domini/id416244215?mt=12	Opus Domini
+=> https://browser.kagi.com	Orion
+
+## P
+
+=> https://papereditor.app/	Paper
+=> https://marinersoftware.com/product/paperless/	Paperless
+=> https://www.parallels.com/pd/general/	Parallels Desktop
+=> https://www.cocoatech.io/	Path Finder
+=> https://apps.apple.com/us/app/pdf-editor-star/id672200559?mt=12	PDF Editor Star
+=> https://dsd.net/prod/mac/pdfnomad.php	PDF Nomad
+=> https://perfectdiettracker.com/	Perfect Diet Tracker
+=> https://www.pgadmin.org/	pgAdmin
+=> http://www.sustworks.com/pa_guide/index.html	Phone Amego
+=> https://www.pixelmator.com/pro/	Pixelmator Pro
+=> https://pilotmoon.com/popclip/	PopClip
+=> https://www.postbox-inc.com/	Postbox
+=> https://fatcatsoftware.com/powerphotos/	PowerPhotos
+=> https://www.quansoft.com/	Pro Fit 7
+=> https://www.macpsd.net/	Progressive Downloader
+=> https://www.puffin.com/secure-browser	Puffin Secure Browser
+
+## Q
+
+=> https://www.joshjacob.com/mac-development/qrjournal.php	QR Journal
+=> https://quickbooks.intuit.com/oa/get-quickbooks/	Quickbooks
+=> https://qsapp.com/	Quicksilver
+
+## R
+
+=> https://www.r-project.org/	R
+=> http://users.notam02.no/~kjetism/radium/index.php	Radium
+=> https://www.iospirit.com/products/remotebuddy/	Remote Buddy
+=> https://manytricks.com/resolutionator/	Resolutionator
+=> https://www.macupdate.com/app/mac/50513/rest	Rest
+=> https://flyingmeat.com/retrobatch/	Retrobatch
+=> https://github.com/pkrll/RocketFuel/	RocketFuel
+=> https://www.rstudio.com/	RStudio
+=> https://dl2rum.de/rumsoft/RUMLog.html	RUMlogNG
+
+## S
+
+=> https://github.com/alldritt/SatimageOSAX	SatimageOSAX
+=> https://pilotmoon.com/scrollreverser/	Scroll Reverser
+=> https://www.seamonkey-project.org/	SeaMonkey
+=> https://sequel-ace.com/	Sequel Ace
+=> https://sequelpro.com/	Sequel Pro
+=> http://shapesapp.com/	Shapes
+=> https://www.shimovpn.com/	Shimo
+=> https://malupdaterosx.moe/shukofukurou/	Shukofukurou
+=> https://www.meetsidekick.com/download/	Sidekick
+=> https://www.apptorium.com/sidenotes	SideNotes
+=> http://dancingtortoise.com/simplecomic/	Simple Comic
+=> https://ricks-apps.com/osx/sitesucker/index.html	SiteSucker Pro
+=> https://www.sketch.com/	Sketch
+=> http://www.hi-ho.ne.jp/sato-akira/sketchydraw/en.lproj/index.html	Sketchy Draw
+=> https://skim-app.sourceforge.io/	Skim
+=> https://www.fenrir-inc.com/jp/sleipnir/	Sleipnir4
+=> https://www.peterborgapps.com/smultron/	Smultron
+=> https://sonarr.tv/#home	Sonarr
+=> https://c-command.com/spamsieve/	SpamSieve
+=> https://sparkmailapp.com/	Spark (Email)
+=> https://www.shadowlab.org/Software/spark.php	Spark (Hotkey Automation)
+=> https://www.spotify.com/us/download/other/	Spotify
+=> https://www.analystsoft.com/en/products/statplusmac/	StatPlus
+=> https://s3.amazonaws.com/MarinerDownloads/index.html	StoryMill
+=> https://subethaedit.net/	SubEthaEdit
+=> https://bitbucket.org/galad87/subler/wiki/Home	Subler
+=> https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html	SuperDuper!
+=> https://www.mjograph.net/	Super Mjograph
+=> https://swinsian.com/	Swinsian
+=> https://www.synalysis.net/	Synalysis It!
+
+## T
+
+=> https://www.x-tables.eu/more/overview.html	Tables
+=> http://www.caseapps.com/tags/	Tags
+=> https://www.tapforms.com/	Tap Forms 5
+=> https://www.taskpaper.com/	TaskPaper
+=> https://www.apptorium.com/teacode	TeaCode
+=> https://www.houdah.com/tembo/	Tembo
+=> https://www.miavy.com/tessa/	Tessa
+=> https://www.texifier.com/mac	Textifier
+=> https://pages.uoregon.edu/koch/texshop/texshop.html	TeXShop
+=> https://textexpander.com/vs/auto-text-expander	TextExpander
+=> https://macromates.com/	TextMate
+=> https://onflapp.github.io/blog/pages/TextSer.html	TextSer
+=> https://textsoap.com/mac/	TextSoap
+=> https://www.codeux.com/textual/	Textual
+=> http://www.karelia.com/products/the-hit-list/mac.html	The Hit List
+=> https://theunarchiver.com/	The Unarchiver
+=> https://culturedcode.com/things/	Things 3
+=> https://www.thunderbird.net/en-US/	Thunderbird
+=> https://joaomoreno.github.io/thyme/	Thyme
+=> https://www.ticktick.com/	TickTick
+=> https://www.beedocs.com/timeline3D/mac/	Timeline 3D
+=> http://timelimeapp.com/	Timelime
+=> https://www.apimac.com/mac/timer/	Timer
+=> https://timingapp.com/	Timing
+=> http://www.eastgate.com/Tinderbox/	Tinderbox
+=> https://plumamazing.com/product/tinyalarm/	TinyAlarm
+=> https://plumamazing.com/product/tinycal/	TinyCal
+=> https://www.roxio.com/en/products/toast/titanium/	Toast 20 Titanium
+=> https://tomito.app/	Tomito
+=> https://www.torproject.org/	Tor Browser
+=> https://tot.rocks/	Tot
+=> https://www.tracktiq.com/	Tracktiq
+=> https://transmissionbt.com/	Transmission
+=> https://panic.com/transmit/	Transmit 5
+=> https://transnomino.bastiaanverreijt.com/	Transnomino
+=> https://tunnelblick.net/	Tunnelblick
+=> https://www.tyme-app.com/en/	Tyme
+=> https://www.ergonis.com/products/typinator/	Typinator
+=> https://typora.io/	Typora
+
+## U
+
+=> https://panic.com/blog/the-future-of-unison/	Unison
+=> https://manytricks.com/usher/	Usher
+
+## V
+
+=> https://github.com/ViennaRSS/vienna-rss	Vienna
+=> https://viperftp.com/	Viper FTP
+=> https://www.sparklabs.com/viscosity/download/	Viscosity
+=> https://www.publicspace.net/Vitamin-R/	Vitamin-R
+=> https://vivaldi.com/	Vivaldi
+=> https://www.videolan.org/vlc/	VLC
+=> https://www.voodoopad.com/	VoodooPad
+=> https://vox.rocks/mac-music-player	VOX
+
+## W
+
+=> https://wavebox.io/	Wavebox
+=> https://www.nch.com.au/wavepad/index.html	Wavepad Audio Editor
+=> https://trixology.com/weathercat/	WeatherCat
+=> http://www.afterten.com/products/weatherman/	WeatherMan
+=> http://www.afterten.com/products/weathertracker/	WeatherTracker
+=> https://www.winzip.com/en/mac/	WinZip
+=> https://www.apptorium.com/workspaces	Workspaces
+=> https://www.assistiveware.com/products/wrise	Wrise
+
+## X
+
+=> https://xchataqua.github.io/	XChat Azure
+
+## Y
+
+=> https://ironicsoftware.com/yep/	Yep
+=> https://plumamazing.com/product/ykey/	yKey
+
+## Z
+
+=> https://zavala.vincode.io/	Zavala
+=> https://www.zotero.org/	Zotero
+
+=> ../../index.gmi	[root]

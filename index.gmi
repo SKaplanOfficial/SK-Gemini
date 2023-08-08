@@ -42,10 +42,10 @@ Hello, I'm Stephen Kaplan. I'm an open-source software developer focused on work
 
 ## Sub-sites
 
-=> applescript/index.gmi	AppleScript
-=> cheatsheets/index.gmi	Cheatsheets
-=> jxa/index.gmi	JXA
-=> projects/index.gmi	Projects
+=> applescript/applescript.gmi	AppleScript
+=> cheatsheets/cheatsheets.gmi	Cheatsheets
+=> jxa/jxa.gmi	JXA
+=> projects/projects.gmi	Projects
 
 ## Other Places to Find Me
 

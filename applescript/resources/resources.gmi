@@ -1,0 +1,15 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# AppleScript Resources
+
+=> scriptable-applications.gmi	List of Scriptable Applications
+
+=> ../../index.gmi	[root]
