@@ -1,0 +1,38 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# Science and Technology Cheatsheets
+
+=> anatomy.md	Anatomy
+=> artificial_intelligence.md	Artificial Intelligence
+=> astronomy.md	Astronomy
+=> biology.md	Biology
+=> biotechnology.md	Biotechnology
+=> botany.md	Botany
+=> chemistry.md	Chemistry
+=> cloud_computing.md	Cloud Computing
+=> computer_science.md	Computer Science
+=> cosmology.md	Cosmology
+=> cybersecurity.md	Cybersecurity
+=> data_science.md	Data Science
+=> ecology.md	Ecology
+=> genetics.md	Genetics
+=> geology.md	Geology
+=> human_computer_interaction.md	Human-Computer Interaction
+=> internet_of_things.md	Internet of Things
+=> mycology.md	Mycology
+=> neuroscience.md	Neuroscience
+=> organic_chemistry.md	Organic Chemistry
+=> paleontology.md	Paleontology
+=> psychology.md	Psychology
+=> robotics.md	Robotics
+=> thermodynamics.md	Thermodynamics
+
+=> ../../../index.gmi	[root]

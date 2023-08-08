@@ -1,0 +1,18 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# Platform and Service Cheatsheets
+
+=> aws.md  AWS
+=> azure.md  Azure
+=> google_cloud.md  Google Cloud
+=> linode.md  Linode
+
+=> ../../index.gmi	[root]

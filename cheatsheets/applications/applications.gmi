@@ -1,0 +1,34 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# Application Cheatsheets
+
+=> adobe_illustrator.md	Adobe Illustrator
+=> adobe_indesign.md	Adobe InDesign
+=> adobe_photoshop.md	Adobe Photoshop
+=> adobe_premiere.md	Adobe Premiere
+=> affinity_designer.md	Affinity Designer
+=> affinity_photo.md	Affinity Photo
+=> affinity_publisher.md	Affinity Publisher
+=> anki.md	Anki
+=> audacity.md	Audacity
+=> emacs.md	Emacs
+=> final_cut_pro.md	Final Cut Pro
+=> keynote.md	Keynote
+=> microsoft_excel.md	Microsoft Excel
+=> microsoft_powerpoint.md	Microsoft PowerPoint
+=> microsoft_word.md	Microsoft Word
+=> numbers.md	Numbers
+=> obsidian.md	Obsidian
+=> pages.md	Pages
+=> siri_shortcuts.md	Siri Shortcuts
+=> sketch.md	Sketch
+
+=> ../../index.gmi	[root]

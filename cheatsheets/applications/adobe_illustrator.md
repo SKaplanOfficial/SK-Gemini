@@ -66,5 +66,4 @@
 
 ## Resources
 
-=> https://helpx.adobe.com/illustrator/using/default-keyboard-shortcuts.html	Adobe Illustrator Keyboard Shortcuts Reference Guide
-
+- [Adobe Illustrator Keyboard Shortcuts Reference Guide](https://helpx.adobe.com/illustrator/using/default-keyboard-shortcuts.html)

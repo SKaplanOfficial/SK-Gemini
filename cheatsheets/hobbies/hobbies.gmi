@@ -1,0 +1,45 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# Hobby Cheatsheets
+
+=> baking.md	Baking
+=> baseball.md	Baseball
+=> blogging.md	Blogging
+=> camping.md	Camping
+=> caving.md	Caving
+=> coin_collecting.md	Coin Collecting
+=> dancing.md	Dancing
+=> drawing.md	Drawing
+=> filmmaking.md	Filmmaking
+=> fishing.md	Fishing
+=> gardening.md	Gardening
+=> geocaching.md	Geocaching
+=> golfing.md	Golfing
+=> hiking.md	Hiking
+=> hockey.md	Hockey
+=> knitting.md	Knitting
+=> painting.md	Painting
+=> photography.md	Photography
+=> podcasting.md	Podcasting
+=> pottery_making.md	Pottery Making
+=> raspberry_pi.md	Raspberry Pi
+=> sculpting.md	Sculpting
+=> sewing.md	Sewing
+=> singing.md	Singing
+=> skydiving.md	Skydiving
+=> stamp_collecting.md	Stamp Collecting
+=> surfing.md	Surfing
+=> traveling.md	Traveling
+=> vlogging.md	Vlogging
+=> woodworking.md	Woodworking
+=> yoga.md	Yoga
+
+=> ../../index.gmi	[root]

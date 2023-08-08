@@ -1,0 +1,43 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# Command Line Tool Cheatsheets
+
+=> afplay.md	afplay
+=> cocoapods.md	cocoapods
+=> curl.md	curl
+=> cwebp.md	cwebp
+=> docker.md	docker
+=> dwebp.md	dwebp
+=> ffmpeg.md	ffmpeg
+=> find.md	find
+=> gcc.md	gcc
+=> git.md	git
+=> grep.md	grep
+=> ifconfig.md	ifconfig
+=> imagemagick.md	imagemagick
+=> ipconfig.md	ipconfig
+=> lsof.md	lsof
+=> netcat.md	netcat
+=> netstat.md	netstat
+=> ps.md	ps
+=> rsync.md	rsync
+=> scp.md	scp
+=> sed.md	sed
+=> ssh-keygen.md	ssh-keygen
+=> ssh.md	ssh
+=> taskwarrior.md	taskwarrior
+=> top.md	top
+=> wget.md	wget
+=> xargs.md	xargs
+=> zip.md	zip
+=> zsh.md	zsh
+
+=> ../../index.gmi	[root]

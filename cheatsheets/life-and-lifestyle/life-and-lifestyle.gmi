@@ -1,0 +1,21 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# Life and Lifestyle Cheatsheets
+
+=> exercise.md	Exercise
+=> keto.md	Keto
+=> mindfulness.md	Mindfulness
+=> minimalism.md	Minimalism
+=> paleo.md	Paleo
+=> pescatarianism.md	Pescatarianism
+=> veganism.md	Veganism
+
+=> ../../index.gmi	[root]

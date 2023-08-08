@@ -1,0 +1,49 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# Language Cheatsheets
+
+=> afrikaans.md	Afrikaans
+=> albanian.md	Albanian
+=> arabic.md	Arabic
+=> bengali.md	Bengali
+=> chinese.md	Chinese
+=> czech.md	Czech
+=> danish.md	Danish
+=> dutch.md	Dutch
+=> esperanto.md	Esperanto
+=> estonian.md	Estonian
+=> farsi.md	Farsi
+=> french.md	French
+=> german.md	German
+=> greek.md	Greek
+=> hawaiian.md	Hawaiian
+=> hindi.md	Hindi
+=> hungarian.md	Hungarian
+=> icelandic.md	Icelandic
+=> indonesian.md	Indonesian
+=> italian.md	Italian
+=> japanese.md	Japanese
+=> korean.md	Korean
+=> latin.md	Latin
+=> maori.md	Maori
+=> nepali.md	Nepali
+=> polish.md	Polish
+=> portuguese.md	Portuguese
+=> romanian.md	Romanian
+=> russian.md	Russian
+=> spanish.md	Spanish
+=> swahili.md	Swahili
+=> swedish.md	Swedish
+=> thai.md	Thai
+=> turkish.md	Turkish
+=> vietnamese.md	Vietnamese
+
+=> ../../../index.gmi	[root]

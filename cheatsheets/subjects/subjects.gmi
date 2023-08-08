@@ -1,0 +1,98 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# Subject Cheatsheets
+
+## Language
+
+=> language/afrikaans.md	Afrikaans
+=> language/albanian.md	Albanian
+=> language/arabic.md	Arabic
+=> language/bengali.md	Bengali
+=> language/chinese.md	Chinese
+=> language/czech.md	Czech
+=> language/danish.md	Danish
+=> language/dutch.md	Dutch
+=> language/esperanto.md	Esperanto
+=> language/estonian.md	Estonian
+=> language/farsi.md	Farsi
+=> language/french.md	French
+=> language/german.md	German
+=> language/greek.md	Greek
+=> language/hawaiian.md	Hawaiian
+=> language/hindi.md	Hindi
+=> language/hungarian.md	Hungarian
+=> language/icelandic.md	Icelandic
+=> language/indonesian.md	Indonesian
+=> language/italian.md	Italian
+=> language/japanese.md	Japanese
+=> language/korean.md	Korean
+=> language/latin.md	Latin
+=> language/maori.md	Maori
+=> language/nepali.md	Nepali
+=> language/polish.md	Polish
+=> language/portuguese.md	Portuguese
+=> language/romanian.md	Romanian
+=> language/russian.md	Russian
+=> language/spanish.md	Spanish
+=> language/swahili.md	Swahili
+=> language/swedish.md	Swedish
+=> language/thai.md	Thai
+=> language/turkish.md	Turkish
+=> language/vietnamese.md	Vietnamese
+
+## Mathematics and Physics
+
+=> mathematics-and-physics/amo_physics.md	Atomic, Molecular, and Optical (AMO) Physics
+=> mathematics-and-physics/astrophysics.md	Astrophysics
+=> mathematics-and-physics/biophysics.md	Biophysics
+=> mathematics-and-physics/combinatorics.md	Combinatorics
+=> mathematics-and-physics/geometry.md	Geometry
+=> mathematics-and-physics/mathematics.md	Mathematics
+=> mathematics-and-physics/nuclear_physics.md	Nuclear Physics
+=> mathematics-and-physics/physics.md	Physics
+=> mathematics-and-physics/quantum_physics.md	Quantum Physics
+=> mathematics-and-physics/topology.md	Topology
+
+## Science and Technology
+
+=> science-and-technology/anatomy.md	Anatomy
+=> science-and-technology/artificial_intelligence.md	Artificial Intelligence
+=> science-and-technology/astronomy.md	Astronomy
+=> science-and-technology/biology.md	Biology
+=> science-and-technology/biotechnology.md	Biotechnology
+=> science-and-technology/botany.md	Botany
+=> science-and-technology/chemistry.md	Chemistry
+=> science-and-technology/cloud_computing.md	Cloud Computing
+=> science-and-technology/computer_science.md	Computer Science
+=> science-and-technology/cosmology.md	Cosmology
+=> science-and-technology/cybersecurity.md	Cybersecurity
+=> science-and-technology/data_science.md	Data Science
+=> science-and-technology/ecology.md	Ecology
+=> science-and-technology/genetics.md	Genetics
+=> science-and-technology/geology.md	Geology
+=> science-and-technology/human_computer_interaction.md	Human-Computer Interaction
+=> science-and-technology/internet_of_things.md	Internet of Things
+=> science-and-technology/mycology.md	Mycology
+=> science-and-technology/neuroscience.md	Neuroscience
+=> science-and-technology/organic_chemistry.md	Organic Chemistry
+=> science-and-technology/paleontology.md	Paleontology
+=> science-and-technology/psychology.md	Psychology
+=> science-and-technology/robotics.md	Robotics
+=> science-and-technology/thermodynamics.md	Thermodynamics
+
+## Social Studies
+
+=> social-studies/geography.md	Geography
+=> social-studies/history.md	History
+=> social-studies/social_studies.md	Social Studies
+=> social-studies/sociology.md	Sociology
+
+=> ../../index.gmi	[root]

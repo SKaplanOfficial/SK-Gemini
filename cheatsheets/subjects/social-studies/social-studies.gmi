@@ -1,0 +1,18 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# Social Studies Cheatsheets
+
+=> geography.md	Geography
+=> history.md	History
+=> social_studies.md	Social Studies
+=> sociology.md	Sociology
+
+=> ../../../index.gmi	[root]
