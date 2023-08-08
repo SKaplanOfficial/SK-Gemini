@@ -1,0 +1,46 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# Image Modification
+
+Apply filters and transformations to various image formats, and convert between them. Create new images by specifying their dimensions, colors, and patterns. Operate on selected files or on images in the clipboard.
+
+=> https://www.raycast.com/HelloImSteven/sips	Raycast Store Page
+=> https://www.raycast.com/HelloImSteven	My Other Extensions
+=> https://github.com/SKaplanOfficial/Raycast-Image-Modification	View On GitHub
+=> https://www.paypal.com/donate/?hosted_button_id=2XFX5UXXR8M6J	Support Development
+
+
+!Feature Overview
+
+* Convert between many different image formats, including WebP and SVG
+* WebP conversion supported by cwebp and dwebp
+* SVG conversion supported by Potrace
+* Rotate, flip, scale, resize, and pad images by applying SIPS commands
+* Apply filters and distortions such as Bokeh Blur, Boir, X-Ray, and more
+* Rotate, flip, and apply filters to PDFs
+* Optimize images using JPEG compression, svgo, and other strategies
+* Perform realtime image manipulation on images in the clipboard
+
+
+!Commands
+
+* Apply Image Filter
+* Convert Images
+* Create New Image
+* Flip Images Horizontally
+* Flip Images Vertically
+* Optimize Images [Amount]
+* Pad Images [Amount] [Color]
+* Resize Images [Width] [Height]
+* Rotate Images [Angle]
+* Scale Images [Scale Factor]
+
+=../../index.gmi	[root]

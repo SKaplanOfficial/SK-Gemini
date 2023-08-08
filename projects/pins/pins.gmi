@@ -1,0 +1,54 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# Pins
+
+=> pins-logo.png	Logo
+=> example.png	Example Usage
+
+A Raycast extension for pinning anything with a path or URL to the menu bar, with support for pinning Terminal commands as well. Quickly navigate to your favorite sites, folders, and files, conveniently execute Terminal commands, and intuitively manage pins and groups from within Raycast.
+
+=> https://www.raycast.com/HelloImSteven/pins	Raycast Store Page
+=> https://www.raycast.com/HelloImSteven	My Other Extensions
+=> https://github.com/SKaplanOfficial/Raycast-Pins	View On GitHub
+=> https://www.paypal.com/donate/?hosted_button_id=2XFX5UXXR8M6J	Support Development
+
+## Feature Overview
+
+* Pin sites, files, folders, apps, and scripts to your menu bar
+* Pin any kind of URL, using any kind of URL scheme
+* Pin current browser tab or Finder selection with single click
+* Customize pin icons
+* Create groups to organize your pins
+* Customize group icons
+* Edit pins and groups as desired
+* Move/rearrange pins and groups as desired
+* Import/Export JSON data
+* Use placeholders to insert dynamic data into pins
+* Highly configurable
+
+
+## Commands
+
+* Show Pins (in Menu Bar)
+* View Pins (in Raycast)
+* View Groups
+* New Pin
+* New Group
+* Copy Pins
+* Import Data
+
+
+## Useful Resources
+
+=> placeholders_guide.md	Placeholders Guide
+=> https://github.com/SKaplanOfficial/Raycast-Pins/blob/main/DEVLOG.md	Development Log
+
+=../../index.gmi	[root]

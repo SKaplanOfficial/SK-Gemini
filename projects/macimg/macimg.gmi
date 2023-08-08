@@ -1,17 +1,23 @@
-=../../components/header
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
 
-!macimg
+# macimg
 
-hView on GitHub	URL:https://github.com/SKaplanOfficial/macimg
-hSupport Development	URL:https://www.paypal.com/donate/?hosted_button_id=2XFX5UXXR8M6J
+=> https://github.com/SKaplanOfficial/macimg	View on GitHub	URL
+=> https://www.paypal.com/donate/?hosted_button_id=2XFX5UXXR8M6J	Support Development
 
-macimg is a Python package for manipulating images using Objective-C 
-frameworks.
+macimg is a Python package for manipulating images using Objective-C frameworks.
 
------
+## Example: Applying Image Filters
 
-Example: Applying Image Filters
-
+```
 from macimg import Image
 from macimg.filters import (
     Bloom,
@@ -44,9 +50,10 @@ filters = [
 for index, filter in enumerate(filters):
     filter.apply_to(img)
     img.show_in_preview(i)
+```
 
-IExample 1	example1.png
-IExample 2	example2.png
-IExample 3	example3.png
+=> example1.png	Example 1
+=> example2.png	Example 2
+=> example3.png	Example 3
 
-=../../components/menu
+=../../index.gmi	[root]

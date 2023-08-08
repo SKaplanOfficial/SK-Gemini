@@ -1,0 +1,180 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# PromptLab
+
+=> promptlab-logo.png	Logo
+
+PromptLab is a Raycast extension for creating and sharing powerful, contextually-aware AI commands using placeholders, action scripts, and more.
+
+PromptLab allows you to create custom AI commands with prompts that utilize contextual placeholders such as {{selectedText}}, {{todayEvents}}, or {{currentApplication}} to vastly expand the capabilities of Raycast AI. PromptLab can also extract information from selected files, if you choose, so that it can tell you about the subjects in an image, summarize a PDF, and more.
+
+PromptLab also supports "action scripts" -- AppleScripts which run with the AI's response as input, as well as experimental autonomous agent features that allow the AI to run commands on your behalf. These capabilities, paired with PromptLab's extensive customization options, open a whole new world of possibilities for enhancing your workflows with AI.
+
+=> https://www.raycast.com/HelloImSteven/promptlab	Raycast Store Page
+=> https://www.raycast.com/HelloImSteven	My Other Extensions
+=> https://github.com/SKaplanOfficial/Raycast-PromptLab	View on GitHub
+=> https://www.paypal.com/donate/?hosted_button_id=2XFX5UXXR8M6J	Support Development
+
+
+## Feature Overview
+
+* Create, Edit, Run, and Share Custom Commands
+* Multiple Command Types (Detail, List, Chat, No-View, and Dialog Window)
+
+### Numerous Contextual Placeholders
+
+* AppleScript, JXA, Shell Script, and JavaScript Placeholders
+* External Data Placeholders (APIs, Websites, and Applications)
+* Custom Placeholders Specified in JSON 
+
+### Analyze Content of Selected Files
+
+* Extract Text, Subjects, QR Codes, and more from Images and Videos
+* Quick Access to Commands via Menu Bar Item
+* Import/Export Commands
+* Save & Run Commands as Quicklinks
+* Run Scripts Upon Model Response
+* Execute Siri Shortcuts and use Output in Prompts
+* PromptLab Chat + Autonomous Command Execution Capability
+* Multiple Chats, Chat History, and Chat Statistics
+* Chat-Specific Context Data Files
+* Upload/Download Commands to/from PromptLab Command Store
+* Use Custom Model Endpoints
+* Favorite Commands, Chats, and Models
+* Option to Speak Responses
+* Option to Use Spoken Input 
+
+
+## Top-Level Commands
+
+* New PromptLab Commands
+* My PrompLab Commands
+* PromptLab Command Store
+* PromptLab Chat
+* Manage Models
+* PromptLab Menuu Item
+* Import PromptLab Commands
+
+
+## Create Your Own Commands
+
+You can create custom PromptLab commands, accessed via the "My PromptLab Commands" command, to execute your own prompts acting on the contents of selected files. A variety of useful defaults are provided, and you can find more in the PromptLab Command Store.
+
+
+## Placeholders
+
+When creating custom commands, you can use placeholders in your prompts that will be substituted with relevant information whenever you run the command. These placeholders range from simple information, like the current date, to complex data retrieval operations such as getting the content of the most recent email or running a sequence of prompts in rapid succession and amalgamating the results. Placeholders are a powerful way to add context to your PromptLab prompts.
+
+A few examples of placeholders are:
+
+* {{clipboardText}} - The text content of your clipboard
+* {{selectedFiles}} - The paths of the files you have selected
+* {{imageText}} - Text extracted from the image(s) you have selected
+* {{lastNote}} - HTML of the most recently modified note in Notes.app
+* {{date format="d MMMM, yyyy"}} - The current date with optional format
+* {{todayEvents}} - Events scheduled for today
+* {{youtube:[URL]}} - Transcript of YouTube video at URL
+* {{url:[URL]}} - The visible text at the specified URL
+* {{as:...}} - The result of the specified AppleScript code
+* {{js:...}} - The result of the specified JavaScript code
+
+
+## Action Scripts
+
+When configuring a PromptLab command, you can provide AppleScript code to execute once the AI finishes its response. You can access the response text via the response variable in AppleScript. Several convenient handlers for working with the response text are also provided, as listed below. Action Scripts can be used to build complex workflows using AI as a content provider, navigator, or decision-maker.
+
+Provided Variables:
+
+* input - The selected files or text input provided to the command.
+* prompt - The prompt component of the command that was run.
+* response - The full response received from the AI.
+
+Provided Handlers:
+
+* split(theText, theDelimiter)
+* trim(theText)
+* replaceAll(theText, textToReplace, theReplacement)
+* rselect(theArray, numItems)
+
+
+## Custom Configuration Fields
+
+When creating a command, you can use the Unlock Setup Fields action to enable custom configuration fields that must be set before the command can be run. You'll then be able to use actions to add text fields, boolean (true/false) fields, and/or number fields, providing instructions as you see fit. In your prompt, use the {{config:fieldName}} placeholder, camel-cased, to insert the field's current value. When you share the command to the store and others install it, they'll be prompted to fill out the custom fields before they can run the command. This is a great way to make your commands more flexible and reusable.
+
+
+## Chats
+
+Using the "PromptLab Chat" command, you can chat with AI while making use of features like placeholders and selected file contents. Chat are preserved for later reference or continuation, and you can customize each chat's name, icon, color, and other settings. Chats can have "Context Data" associated with them, ensuring that the LLM stays aware of the files, websites, and other information relevant to your conversation. Within a chat's settings, you can view various statistics highlighting how you've interacted with the AI, and you can export the chat's contents (including the statistics) to JSON for portability.
+
+
+### Autonomous Agent Features
+
+When using PromptLab Chat, or any command that uses a chat view, you can choose to enable autonomous agent features by checking the "Allow AI To Run Commands" checkbox. This will allow the AI to run PromptLab commands on your behalf, supplying input as needed, in order to answer your queries. For example, if you ask the AI "What's the latest news?", it might run the "Recent Headlines From 68k News" command to fulfil your request, then return the results to you. This feature is disabled by default, and can be enabled or disabled at any time.
+
+
+## Custom Model Endpoints
+
+When you first run PromptLab, you'll have the option to configure a custom model API endpoint. If you have access to Raycast AI, you can just leave everything as-is, unless you have a particular need for a different model. You can, of course, adjust the configuration via the Raycast preferences at any time.
+
+To use any arbitrary endpoint, put the endpoint URL in the Model Endpoint preference field and provide your API Key alongside the corresponding Authorization Type. Then, specify the Input Schema in JSON notation, using {prompt} to indicate where PromptLab should input its prompt. Alternatively, you can specify {basePrompt} and {input} separately, for example if you want to provide content for the user and system roles separately when using the OpenAI API. Next, specify the Output Key of the output text within the returned JSON object. If the model endpoint returns a string, rather than a JSON object, leave this field empty. Finally, specify the Output Timing of the model endpoint. If the model endpoint returns the output immediately, select Synchronous. If the model endpoint returns the output asynchronously, select Asynchronous.
+
+### OpenAI API Example:
+
+```
+Model Endpoint: https://api.openai.com/v1/chat/completions
+Authorization Type: Bearer Token
+API Key: Your API key
+Input Schema: { "model": "gpt-4", "messages": [{"role": "user", "content": "{prompt}"}], "stream": true }
+Output Key Path: choices[0].delta.content
+Output Timing: Asynchronous
+```
+
+### Anthropic API Example:
+
+```
+Model Endpoint: https://api.anthropic.com/v1/complete
+Authorization Type: X-API-Key
+API Key: Your API Key
+Input Schema: { "prompt": "\n\nHuman: {prompt}\n\nAssistant: ", "model": "claude-instant-v1-100k", "max_tokens_to_sample": 300, "stop_sequences": ["\n\nHuman:"] , "stream": true }
+Output Key Path: completion
+Output Timing: Asynchronous
+```
+
+
+## Troubleshooting
+
+If you encounter any issues with the extension, you can try the following steps to resolve them:
+
+* Make sure you're running the latest version of Raycast and PromptLab. I'm always working to improve the extension, so it's possible that your issue has already been fixed.
+* If you're having trouble with a command not outputting the desired response, try adjusting the command's configuration. You might just need to make small adjustments to the wording of the prompt. See the Useful Resources section below for help with prompt engineering. You can also try adjusting the included information settings to add or remove context from the prompt and guide the AI towards the desired response.
+* If you're having trouble with PromptLab Chat responding in unexpected ways, make sure the chat settings are configured correctly. If you are trying to reference selected files, you need to enable "Use Selected Files As Context". Likewise, to run other PromptLab commands automatically, you need to enable "Allow AI To Run Commands". To have the AI remember information about your conversation, you'll need to enable "Use Conversation As Context". Having multiple of these settings enabled can sometimes cause unexpected behavior, so try disabling them one at a time to see if that resolves the issue.
+* Check the PromptLab Wiki to see if a solution to your problem is provided there.
+* If you're still having trouble, create a new issue on GitHub with a detailed description of the issue and any relevant screenshots or information. I'll do my best to help you out!
+
+## Output Examples
+
+=> jpg-summarization.png	JPG Text Summarization
+=> mp3-summarization.png	MP3 Audio Summarization
+=> performance-summary.png	Performance Summary
+=> keynote-from-file.png	Keynote From File
+
+
+
+## Useful Resources
+
+=> placeholders.md	Placeholders Guide
+=> PromptLab-1.0.0.png	PromptLab 1.0.0 Release Image
+=> PromptLab-1.1.0.png	PromptLab 1.1.0 Release Image
+=> https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api	Best Practices for Prompt Engineering with OpenAI API
+=> https://github.com/brexhq/prompt-engineering#what-is-a-prompt	Brex's Prompt Engineering Guide
+=> https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md	Techniques to Improve Reliability
+
+= ../../index.gmi	[root]

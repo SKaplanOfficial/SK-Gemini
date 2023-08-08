@@ -18,25 +18,25 @@ Hello, I'm Stephen Kaplan. I'm an open-source software developer focused on work
 
 ### Python Packages
 
-=> projects/pyxa/index.gmi	PyXA
+=> projects/pyxa/pyxa.gmi	PyXA
 
 * Python for Automation. A wrapper around several macOS frameworks enables AppleScript-and JXA-like control over macOS applications from within Python. PyXA's objects and methods are based on applications' scripting dictionaries and coupled with additional automation features supported by Apple's macOS APIs.
 
-=> project/macimg/index.gmi	macimg
+=> project/macimg/macimg.gmi	macimg
 
 * A Python package for manipulating images using Objective-C frameworks.
 
 ### Raycast Extensions
 
-=> projects/image-modification/index.gmi	Image Modification
+=> projects/image-modification/image-modification.gmi	Image Modification
 
 * Raycast extension for on-the-fly image adjustments, filtering, and conversion.
 
-=> projects/pins/index.gmi	Pins
+=> projects/pins/pins.gmi	Pins
 
 * Raycast extension for pinning links, files, folders, apps, scripts, and more to the macOS menu bar.
 
-=> projects/promptlab/index.gmi	PromptLab
+=> projects/promptlab/promptlab.gmi	PromptLab
 
 * Raycast extension for creating and sharing powerful, contextually-aware AI commands using placeholders, action scripts, and more.
 
@@ -60,4 +60,4 @@ Hello, I'm Stephen Kaplan. I'm an open-source software developer focused on work
 
 ## Contact Me
 
-=> mail://s.kaplan@sdf.org	Email
+=> mailto:s.kaplan@sdf.org	Email

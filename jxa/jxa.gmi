@@ -1,0 +1,26 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# JXA
+
+Various resources I've made or found relating to programming with JavaScript for Automation (JXA).
+
+## Content Made By Me
+
+=> scripts/scripts.gmi	Scripts
+=> tutorials/tutorials.gmi	Tutorials
+=> resources/resources.gmi	Resources
+
+## Useful Links
+
+=> https://www.galvanist.com/posts/2020-03-28-jxa_notes/#objc	Ben Burke's JXA Notes
+=> https://bru6.de/jxa/	Scripting with JXA by Christian Kirsch
+
+=> ../index.gmi	[root]
