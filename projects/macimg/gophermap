@@ -1,0 +1,52 @@
+=../../components/header
+
+!macimg
+
+hView on GitHub	URL:https://github.com/SKaplanOfficial/macimg
+hSupport Development	URL:https://www.paypal.com/donate/?hosted_button_id=2XFX5UXXR8M6J
+
+macimg is a Python package for manipulating images using Objective-C 
+frameworks.
+
+-----
+
+Example: Applying Image Filters
+
+from macimg import Image
+from macimg.filters import (
+    Bloom,
+    Comic,
+    Crystallize,
+    Edges,
+    Invert,
+    Sepia,
+    Vignette
+)
+
+# Load an image
+img = Image("assets/Iceland1.jpg")
+img.show_in_preview()
+
+# Apply a single filter
+Vignette(intensity=10).apply_to(img)
+img.show_in_preview()
+
+# Apply multiple filters
+filters = [
+    Comic(),
+    Edges(),
+    Invert(),
+    Sepia(),
+    Bloom(),
+    Crystallize(crystal_size=50)
+]
+
+for index, filter in enumerate(filters):
+    filter.apply_to(img)
+    img.show_in_preview(i)
+
+IExample 1	example1.png
+IExample 2	example2.png
+IExample 3	example3.png
+
+=../../components/menu

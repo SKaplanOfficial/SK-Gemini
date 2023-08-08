@@ -1,0 +1,24 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# My Projects
+
+## Python Packages
+
+=> pyxa/index.gmi	PyXA
+=> macimg/index.gmi	macimg
+
+## Raycast Extensions
+
+=> image-modification/index.gmi	Image Modification
+=> pins/index.gmi	Pins
+=> promptlab/index.gmi	PromptLab
+
+=> ../index.gmi	[root]

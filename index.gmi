@@ -1,0 +1,63 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# SK's Gemini Capsule
+
+## Introduction
+
+Hello, I'm Stephen Kaplan. I'm an open-source software developer focused on workflow automation, desktop applications, and web development. I actively maintain several projects, including several Python packages, a list of macOS automation resources, various Raycast extensions</a>, and more. Some projects I've contributed to include rumps, a Python package for creating macOS menu-bar apps, and the Raycast Utils package for Node.js. I've also created and published a few node packages myself, and I'm currently working on a few more. In my spare time, I'm developing a few AppleScript libraries called ImageLib, PDFLib, and WebLib. I also have a YouTube channel (@helloimsteven3103) where I post videos showcasing my projects, and I'm hoping to expand it to include tutorials and other content in the future.
+
+## My projects
+
+### Python Packages
+
+=> projects/pyxa/index.gmi	PyXA
+
+* Python for Automation. A wrapper around several macOS frameworks enables AppleScript-and JXA-like control over macOS applications from within Python. PyXA's objects and methods are based on applications' scripting dictionaries and coupled with additional automation features supported by Apple's macOS APIs.
+
+=> project/macimg/index.gmi	macimg
+
+* A Python package for manipulating images using Objective-C frameworks.
+
+### Raycast Extensions
+
+=> projects/image-modification/index.gmi	Image Modification
+
+* Raycast extension for on-the-fly image adjustments, filtering, and conversion.
+
+=> projects/pins/index.gmi	Pins
+
+* Raycast extension for pinning links, files, folders, apps, scripts, and more to the macOS menu bar.
+
+=> projects/promptlab/index.gmi	PromptLab
+
+* Raycast extension for creating and sharing powerful, contextually-aware AI commands using placeholders, action scripts, and more.
+
+## Sub-sites
+
+=> applescript/index.gmi	AppleScript
+=> cheatsheets/index.gmi	Cheatsheets
+=> jxa/index.gmi	JXA
+=> projects/index.gmi	Projects
+
+## Other Places to Find Me
+
+=> https://s.kaplan.sdf.org/	My Homepage
+=> gopher://sdf.org/1/users/s.kaplan	My Gopherspace
+
+=> https://github.com/SKaplanOfficial	GitHub Profile
+=> https://www.linkedin.com/in/stephen-kaplan-8168baa2/	LinkedIn Profile
+=> https://www.npmjs.com/settings/helloimsteven/packages	NPM Profile
+=> https://www.raycast.com/HelloImSteven Raycast Developer Profile
+=> https://www.youtube.com/channel/UCvFD3iYysFzkv1IYo1ugFfw	YouTube Channel
+
+## Contact Me
+
+=> mail://s.kaplan@sdf.org	Email
