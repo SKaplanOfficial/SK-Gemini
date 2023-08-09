@@ -16,7 +16,7 @@ Hello, I'm Stephen Kaplan. I'm an open-source software developer focused on work
 
 ## Gemlog
 
-=> 2023
+=> posts/2023/index.gmi	2023
 
 ## My projects
 
