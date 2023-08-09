@@ -1,0 +1,18 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# 2023 Posts
+
+## August
+
+=> 08-08.gmi	To Mirror or Not to Mirror
+
+=> ../index.gml  [Gemlog Index]
+=> ../../index.gmi	[root]

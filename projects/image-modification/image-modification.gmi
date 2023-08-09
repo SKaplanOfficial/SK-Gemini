@@ -18,7 +18,7 @@ Apply filters and transformations to various image formats, and convert between 
 => https://www.paypal.com/donate/?hosted_button_id=2XFX5UXXR8M6J	Support Development
 
 
-!Feature Overview
+## Feature Overview
 
 * Convert between many different image formats, including WebP and SVG
 * WebP conversion supported by cwebp and dwebp
@@ -29,8 +29,7 @@ Apply filters and transformations to various image formats, and convert between 
 * Optimize images using JPEG compression, svgo, and other strategies
 * Perform realtime image manipulation on images in the clipboard
 
-
-!Commands
+## Commands
 
 * Apply Image Filter
 * Convert Images
@@ -43,4 +42,4 @@ Apply filters and transformations to various image formats, and convert between 
 * Rotate Images [Angle]
 * Scale Images [Scale Factor]
 
-=../../index.gmi	[root]
+=> ../../index.gmi	[root]

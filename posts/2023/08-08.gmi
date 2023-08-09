@@ -1,0 +1,17 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# To Mirror or Not to Mirror
+2023-08-08 | #gemini #gopher #thoughts
+
+I've created this Gemini capsule as an approximate mirror of my Gopherhole. It's approximate because I've made some changes to the content and structure of the capsule to better fit the Gemini protocol. I've also added some content that is not available on the Gopherhole, such as this blog. Whether I'll keep the blog Gemini-specific, mirror it on Gopher, or move it to Gopher entirely, I'm not sure. I appreciate the simplicity of Gopher, but I find Gemini more flexible and easier to work with as a way to express my thoughts and ideas.
+
+=> ../index.gml	[Gemlog Index]
+=> ../../../index.gmi	[root]

@@ -10,10 +10,11 @@
 
 # macimg
 
+macimg is a Python package for manipulating images using Objective-C frameworks.
+
 => https://github.com/SKaplanOfficial/macimg	View on GitHub	URL
 => https://www.paypal.com/donate/?hosted_button_id=2XFX5UXXR8M6J	Support Development
 
-macimg is a Python package for manipulating images using Objective-C frameworks.
 
 ## Example: Applying Image Filters
 
@@ -56,4 +57,4 @@ for index, filter in enumerate(filters):
 => example2.png	Example 2
 => example3.png	Example 3
 
-=../../index.gmi	[root]
+=> ../../index.gmi	[root]

@@ -23,7 +23,6 @@ PromptLab also supports "action scripts" -- AppleScripts which run with the AI's
 => https://github.com/SKaplanOfficial/Raycast-PromptLab	View on GitHub
 => https://www.paypal.com/donate/?hosted_button_id=2XFX5UXXR8M6J	Support Development
 
-
 ## Feature Overview
 
 * Create, Edit, Run, and Share Custom Commands
@@ -52,7 +51,6 @@ PromptLab also supports "action scripts" -- AppleScripts which run with the AI's
 * Option to Speak Responses
 * Option to Use Spoken Input 
 
-
 ## Top-Level Commands
 
 * New PromptLab Commands
@@ -63,11 +61,9 @@ PromptLab also supports "action scripts" -- AppleScripts which run with the AI's
 * PromptLab Menuu Item
 * Import PromptLab Commands
 
-
 ## Create Your Own Commands
 
 You can create custom PromptLab commands, accessed via the "My PromptLab Commands" command, to execute your own prompts acting on the contents of selected files. A variety of useful defaults are provided, and you can find more in the PromptLab Command Store.
-
 
 ## Placeholders
 
@@ -86,7 +82,6 @@ A few examples of placeholders are:
 * {{as:...}} - The result of the specified AppleScript code
 * {{js:...}} - The result of the specified JavaScript code
 
-
 ## Action Scripts
 
 When configuring a PromptLab command, you can provide AppleScript code to execute once the AI finishes its response. You can access the response text via the response variable in AppleScript. Several convenient handlers for working with the response text are also provided, as listed below. Action Scripts can be used to build complex workflows using AI as a content provider, navigator, or decision-maker.
@@ -104,21 +99,17 @@ Provided Handlers:
 * replaceAll(theText, textToReplace, theReplacement)
 * rselect(theArray, numItems)
 
-
 ## Custom Configuration Fields
 
 When creating a command, you can use the Unlock Setup Fields action to enable custom configuration fields that must be set before the command can be run. You'll then be able to use actions to add text fields, boolean (true/false) fields, and/or number fields, providing instructions as you see fit. In your prompt, use the {{config:fieldName}} placeholder, camel-cased, to insert the field's current value. When you share the command to the store and others install it, they'll be prompted to fill out the custom fields before they can run the command. This is a great way to make your commands more flexible and reusable.
-
 
 ## Chats
 
 Using the "PromptLab Chat" command, you can chat with AI while making use of features like placeholders and selected file contents. Chat are preserved for later reference or continuation, and you can customize each chat's name, icon, color, and other settings. Chats can have "Context Data" associated with them, ensuring that the LLM stays aware of the files, websites, and other information relevant to your conversation. Within a chat's settings, you can view various statistics highlighting how you've interacted with the AI, and you can export the chat's contents (including the statistics) to JSON for portability.
 
-
 ### Autonomous Agent Features
 
 When using PromptLab Chat, or any command that uses a chat view, you can choose to enable autonomous agent features by checking the "Allow AI To Run Commands" checkbox. This will allow the AI to run PromptLab commands on your behalf, supplying input as needed, in order to answer your queries. For example, if you ask the AI "What's the latest news?", it might run the "Recent Headlines From 68k News" command to fulfil your request, then return the results to you. This feature is disabled by default, and can be enabled or disabled at any time.
-
 
 ## Custom Model Endpoints
 
@@ -148,7 +139,6 @@ Output Key Path: completion
 Output Timing: Asynchronous
 ```
 
-
 ## Troubleshooting
 
 If you encounter any issues with the extension, you can try the following steps to resolve them:
@@ -166,8 +156,6 @@ If you encounter any issues with the extension, you can try the following steps 
 => performance-summary.png	Performance Summary
 => keynote-from-file.png	Keynote From File
 
-
-
 ## Useful Resources
 
 => placeholders.md	Placeholders Guide
@@ -177,4 +165,4 @@ If you encounter any issues with the extension, you can try the following steps 
 => https://github.com/brexhq/prompt-engineering#what-is-a-prompt	Brex's Prompt Engineering Guide
 => https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md	Techniques to Improve Reliability
 
-= ../../index.gmi	[root]
+=> ../../index.gmi	[root]

@@ -51,4 +51,4 @@ A Raycast extension for pinning anything with a path or URL to the menu bar, wit
 => placeholders_guide.md	Placeholders Guide
 => https://github.com/SKaplanOfficial/Raycast-Pins/blob/main/DEVLOG.md	Development Log
 
-=../../index.gmi	[root]
+=> ../../index.gmi	[root]
