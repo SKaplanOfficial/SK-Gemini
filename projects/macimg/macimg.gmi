@@ -18,7 +18,7 @@ macimg is a Python package for manipulating images using Objective-C frameworks.
 
 ## Example: Applying Image Filters
 
-```
+```python
 from macimg import Image
 from macimg.filters import (
     Bloom,

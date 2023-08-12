@@ -1,0 +1,20 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# Random Quotes
+
+> You, a worthless man about to die — how do you know I'm a worthless tree?
+- Zhuang Zhou
+
+> Easy peasy, livin' greasy.
+- Jake the Dog
+
+=> resources.gmi	[Resources Index]
+=> ../index.gmi	[root]

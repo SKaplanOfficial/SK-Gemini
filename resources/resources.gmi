@@ -1,0 +1,30 @@
+```
+  ######   ##    ##
+ ##    ##  ##   ##
+ ##        ##  ##
+  ######   #####
+       ##  ##  ##
+ ##    ##  ##   ##
+  ######   ##    ##
+```
+
+# Resources and Links
+
+## Gemini Search Engines
+
+=> gemini://gemplex.space/	Gemplex Gemini Search Engine
+=> gemini://geminispace.info/	Gemini Universal Search (GUS)
+=> gemini://kennedy.gemi.dev/	Kennedy
+=> gemini://tlgs.one/	Total Legitimate Gemini Search (TLGS)
+
+## Gemini Directories
+
+=> gemini://cdg.thegonz.net/	Collaborative Directory of Geminispace
+=> gemini://medusae.space/	medusae.space gemini directory
+
+## Random Stuff
+
+=> gemini://typed-hole.org/roulette	Gemini Roulette
+=> quotes.gmi	Random Quotes
+
+=> ../index.gmi	[root]

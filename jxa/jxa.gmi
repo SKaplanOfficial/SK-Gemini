@@ -10,17 +10,134 @@
 
 # JXA
 
-Various resources I've made or found relating to programming with JavaScript for Automation (JXA).
+## Overview
+
+JavaScript for Automation (JXA) is a scripting language for macOS that allows you to control applications and the operating system using JavaScript. Like AppleScript, JXA is an Open Scripting Architecture (OSA) language that is able to communicate with macOS applications and services via Apple Events.
+
+There are some members of the macOS automation community who criticize JXA for being a half-baked language that is not as capable as AppleScript, or for being abandoned by Apple soon after its introduction. Some of these criticisms come from people very familiar with OSA languages, including previous Apple employees, and I do not doubt their expertise. However, while JXA may not be the perfect automation language that some hoped for, it offers a number of advantages over AppleScript that make it worth learning. In particular, JXA supports access to low-level C APIs via its Objective-C bridge, enabling it to do things that AppleScript and even AppleScriptObjC cannot. JXA also has a more modern syntax than AppleScript, and it is easier to learn for people who are already familiar with JavaScript.
+
+Ultimately, the best automation language is the one that works best for you. The remainder of this site is dedicated to helping you learn JXA, providing an unopinionated overview of the language and its capabilities.
+
+## Running Scripts
+
+JXA scripts can be run from the command line using the osascript command, or from the Script Editor application. The Script Editor application is located in /Applications/Utilities, and it is the default application for opening .scpt and .applescript files. To run a JXA script from the command line, use the following syntax:
+
+```bash
+osascript -l JavaScript path/to/script.js
+```
+
+To provide a script with command line arguments, use the -e option to pass a string containing the script's source code. For example:
+
+```bash
+osascript -l JavaScript -e 'console.log("Hello, world!")'
+```
+
+To run an interactive JXA session, use the -i option:
+
+```bash
+osascript -il JavaScript
+```
+
+### Script Structure
+
+The last line of a JXA script is used as the script's return value. For example, the following script will return the string "Hello, world!" when run:
+
+```javascript
+1;
+true;
+"Hello, world";
+```
+
+The result is equivalent to that of the following immediately invoked function expression (IIFE):
+
+```javascript
+(() => {
+	1;
+	true;
+	return "Hello, world";
+})()
+```
+
+The following script yields the same result:
+
+```javascript
+const sayHello = () => {
+	return "Hello, world";
+}
+
+sayHello();
+```
+
+Finally, you can define a function named run that will always be called when the script is run:
+
+```javascript
+function run(argv) {
+	return "Hello, world";
+}
+```
+
+All of the above scripts will return the string "Hello, world!" when run. The first approach is the least versatile, but it is useful for simple scripts. The second and third approaches are effectively the same, and both are commonly used. The fourth approach is most useful for scripts that require command line arguments via the argv parameter.
+
+## Discovering the API
+
+The core functionality of JXA is made available through the global "Automation" object. This object provides various functions and classes that facilitate communication with macOS applications and services, as well as with C and Objective-C APIs. To view the contents of the Automation namespace, you can simply return the Automation object from a script:
+
+```javascript
+function run(argv) {
+	return Automation
+}
+
+// Output: {"initializeGlobalObject":[function anonymous], "getDisplayString":[function anonymous], "Automation":{...}, "Progress":[object Progress], "ObjC":{"registerSubclass":[function anonymous], "dict":[function anonymous], "unwrap":[function anonymous], "interactWithUser":true, "$":[function $], "import":[function anonymous], "wrap":[function $], "castRefToObject":[function anonymous], "bindFunction":[function anonymous], "Ref":[function anonymous], "block":[function anonymous], "super":[function anonymous], "castObjectToRef":[function anonymous], "deepUnwrap":[function anonymous]}, "Path":[function anonymous], "Library":[function anonymous], "delay":[function anonymous], "log":[function anonymous], "Application":[function anonymous], "ObjectSpecifier":[object ObjectSpecifierConstructor]}
+```
+
+You can use this strategy of returning objects from scripts to explore any of the classes and functions provided by JXA.
+
+For now, the most notable members are the Application, ObjC, Library, and $ classes, along with the import, log, and delay functions. The Application class is used to communicate with macOS applications, while the ObjC, Library, and $ classes are used to interact with macOS' Objective C APIs. The import function is used to load libraries and Objective C frameworks. The log function is used to print messages to the system log, and the delay function is used to pause script execution for a specified number of seconds.
+
+We'll explore the other members of the Automation namespace in detail later. For now, let's take a look at the Application class.
+
+## Application Class
+
+The Application class is used to communicate with macOS applications. It is similar to AppleScript's Application class, with the same basic functionality. You can use the same strategy as we did for the Automation namespace to view the structure of the Application class:
+
+```javascript
+function run(argv) {
+	return Application
+}
+
+/* Output:
+[function anonymous] {
+  "length":0, 
+  "name":"", 
+  "prototype":{"activate":[function anonymous], "strictPropertyScope":false, "commandsOfClass":[function anonymous], "version":[function anonymous], "id":[function anonymous], "frontmost":[function anonymous], "strictCommandScope":false, "propertiesOfClass":[function anonymous], "running":[function anonymous], "parentOfClass":[function anonymous], "includeStandardAdditions":false, "strictParameterType":false, "quit":[function anonymous], "displayNameForPropertyOfClass":[function anonymous], "displayNameForElementOfClass":[function anonymous], "displayNameForCommand":[function anonymous], "elementsOfClass":[function anonymous], "name":[function anonymous], "launch":[function anonymous]}, 
+  "currentApplication":[function anonymous]
+}
+*/
+```
+
+This signature indicates that Application is a constructor function that returns an Application object with a number of properties and methods. You'll notice that the members of an instantiated Application object are generally functions, with the exception of the strictPropertyScope, strictCommandScope, strictParameterType, and includeStandardAdditions properties. More on these later. The remaining members are functions that are used to intruct the application to perform actions or return information. For example, the following script will return the name of the Music application:
+
+```javascript
+function run(argv) {
+	return Application("Music").name()
+}
+```
+
+The Application constructor function accepts a single argument specifying the target application. The target can be the name of an application, the path to an application bundle, or the bundle ID of an application. 
+
 
 ## Content Made By Me
 
 => scripts/scripts.gmi	Scripts
 => tutorials/tutorials.gmi	Tutorials
-=> resources/resources.gmi	Resources
 
-## Useful Links
+## Useful Resources
 
+=> https://github.com/JXA-Cookbook/JXA-Cookbook/wiki JXA Cookbook
 => https://www.galvanist.com/posts/2020-03-28-jxa_notes/#objc	Ben Burke's JXA Notes
 => https://bru6.de/jxa/	Scripting with JXA by Christian Kirsch
+=> https://developer.apple.com/library/mac/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/Articles/OSX10-10.html#//apple_ref/doc/uid/TP40014508-CH109-SW1	OS X 10.10 Release Notes
+=> https://developer.apple.com/library/mac/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/Articles/OSX10-11.html#//apple_ref/doc/uid/TP40014508-CH110-SW1	OS X 10.11 Release Notes
+=> https://developer.apple.com/library/prerelease/content/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/index.html#//apple_ref/doc/uid/TP40016239	Mac Automation Scripting Guide
 
 => ../index.gmi	[root]
